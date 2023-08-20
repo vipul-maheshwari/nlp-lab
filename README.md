@@ -34,7 +34,7 @@ To embark on your NLP journey with the NLP Lab experiments, follow these steps:
 
 ## Contributing
 
-We wholeheartedly welcome contributions to the NLP Lab Experiments Repository! If you're eager to share an experiment, enhancement, or bug fix, please adhere to our [contribution guidelines](CONTRIBUTING.md).
+We wholeheartedly welcome contributions to the NLP Lab Experiments Repository! If you're eager to share an experiment, enhancement, or bug fix, please adhere to our [contribution guidelines](CONTRIBUTION.md).
 
 ## License
 
